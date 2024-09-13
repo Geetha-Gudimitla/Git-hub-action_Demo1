@@ -1,7 +1,7 @@
 # check workflow
 # app.py
 # This is a test commit
-# Add function
+# Add function.
 def add(a, b):
     return a + b
 
